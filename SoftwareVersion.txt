@@ -15,5 +15,5 @@ Java 1.8
 *-------*--------
 
 Upgraded to
-
+            ---------------------> Snapshot Java 1.11
 Java 1.11
