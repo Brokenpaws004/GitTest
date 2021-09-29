@@ -11,3 +11,9 @@ Java 1.4.6
 Upgraded to
 
 Java 1.8
+
+*-------*--------
+
+Upgraded to
+
+Java 1.11
