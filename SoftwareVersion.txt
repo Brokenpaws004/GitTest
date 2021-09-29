@@ -12,7 +12,7 @@ Upgraded to
             ---------------------> Snapshot Java 1.8
 Java 1.8
 
-*-------*--------
+*-------*--------                                          ----------------> Snapshot 1.9
 
 Upgraded to
             ---------------------> Snapshot Java 1.11
